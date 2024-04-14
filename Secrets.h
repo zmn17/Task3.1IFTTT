@@ -1,3 +1,3 @@
 
-#define SECRET_SSID "Not-Connected..."		// replace MySSID with your WiFi network name
-#define SECRET_PASS "ZH9FagdbAdXMNpk3"
+#define SECRET_SSID "" // insert your wifi name
+#define SECRET_PASS "" // Insert your wifi password
